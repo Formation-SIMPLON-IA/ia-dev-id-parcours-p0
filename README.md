@@ -4,8 +4,7 @@
 > Durée : **4 à 5 heures**, à ton rythme.
 > Modalité : individuel, asynchrone. **Non évalué** (préparation).
 >
-> ⚠️ Ce brief t'est envoyé **la veille du démarrage**. On ne peut donc pas poser
-> d'échéance couperet. La règle est simple :
+> ⚠️ Ce brief t'est envoyé **la veille du démarrage**. Dans l'idéal :
 > 1. **Ce soir / dès réception** → priorité absolue à la **Tâche 1 (poste opérationnel)**.
 >    Si Python / Git / Jupyter ne tournent pas chez toi au démarrage, tu perds une
 >    demi-journée pendant que les autres avancent.
