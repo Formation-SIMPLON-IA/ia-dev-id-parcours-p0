@@ -28,6 +28,8 @@ git clone <url-de-ton-repo-perso>
 cd dev-id-onboarding-<prénom>
 python -m venv .venv && source .venv/bin/activate   # Windows : .venv\Scripts\activate
 pip install -r squelette/requirements.txt
+# ▸ Si tu as créé l'env avec uv (uv venv n'embarque pas pip) :
+#   uv pip install -r squelette/requirements.txt
 ```
 
 3. Ouvre le squelette du notebook : `jupyter notebook squelette/presentation_template.ipynb`

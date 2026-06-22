@@ -9,6 +9,7 @@ Ce dossier contient le squelette du livrable P0.
 3. Installe les dépendances :
    ```bash
    pip install -r requirements.txt
+   # ▸ Env créé avec uv ? (uv venv n'embarque pas pip) → uv pip install -r requirements.txt
    ```
 4. Ouvre Jupyter, complète les 6 sections, **vérifie que tout tourne** sans erreur.
 5. Commit, push.
